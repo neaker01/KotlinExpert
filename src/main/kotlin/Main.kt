@@ -18,7 +18,17 @@ fun App() {
 
     MaterialTheme {
         Button(onClick = {
-            text = "Hello, Desktop! okk asasasasaaas asasasasasas"
+            text = "Hello, Desktop! okk asasasasaaas asasasasasas" +
+                    "" +
+                    "a" +
+                    "sa" +
+                    "s" +
+                    "as" +
+                    "as" +
+                    "a" +
+                    "sa" +
+                    "s" +
+                    ""
         }) {
             Text(text)
         }
